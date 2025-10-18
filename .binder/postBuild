@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+set -euxo pipefail
+git clone --depth=1 -b gh-pages https://github.com/Jackojj/PeecsJB.git PeecsJB
