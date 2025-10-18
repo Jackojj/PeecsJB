@@ -1,2 +1,2 @@
 set -eux
-git clone --depth=1 -b gh-pages https://github.com/jeanwalrand/PeecsJB.git PeecsJB
+git clone --depth=1 -b gh-pages https://github.com/Jackojj/PeecsJB.git PeecsJB
