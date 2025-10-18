@@ -1,5 +1,4 @@
 scipy
-jupyter-book
 matplotlib
 numpy
 pandas
