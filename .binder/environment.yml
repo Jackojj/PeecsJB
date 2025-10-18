@@ -16,8 +16,8 @@ dependencies:
   # 小部件 & Lab 支持
   - ipywidgets>=8
   - jupyterlab>=4
-  - jupyterlab-widgets>=3      # Lab 前端的 widgets 支持
-  - widgetsnbextension>=4      # 仅 classic Notebook 用，留着也无妨
+  - jupyterlab_widgets>=3      # Lab 前端的 widgets 支持，conda包名是下划线
+  - widgetsnbextension>=4      # 仅 classic Notebook 用，留着也行
 
   # 交互地图
   - ipyleaflet>=0.18
